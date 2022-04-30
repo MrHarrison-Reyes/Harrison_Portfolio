@@ -7,6 +7,12 @@ I have been a Special Education Teacher for the last 10 years, but I am in the p
 🧠  I'm learning Project Management and Advanced Data Analytics
 🤝  I'm open to collaborating on projects regarding data analysis, data visualizations, and education.
 
+## Certificates and Degrees:
+- Python for Data Science and Machine Learning Boot Camp (Udemy)
+- Google Data Analytics Professional Certificate (Google)
+- Google IT Support Professional Certificate (Google)
+- Google Certified Educator level 1 & 2 (Google)
+- Apple Certified Teacher (Apple)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tharrisonreyes/) 
