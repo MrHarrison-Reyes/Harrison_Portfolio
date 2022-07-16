@@ -1,6 +1,6 @@
 # 💫About Me :
 Hi, my name is Timothy Harrison-Reyes.  
-I have been a Special Education Teacher for the last 10 years, but I am in the process of changing careers. I am currently enrolled in Masters of Science in Data Analytics program at Southern New Hampshire University and will graduate in August of 2022. I have worked primarily using R, Python, and SQL for use with concepts such as: Machine Learning Algorithms, Data Analytics, Statistical Data Analysis, Natural Language Processing, Data Visualization, Database Systems & Information Modeling • Software Engineering, and more!
+I have been a Special Education Teacher for the last 10 years, but I am in the process of changing careers. I am currently enrolled in Masters of Science in Data Analytics program at Southern New Hampshire University and will graduate in August of 2022. I have worked primarily using R, Python, and SQL for use with concepts such as: Machine Learning Algorithms, Data Analytics, Statistical Data Analysis, Natural Language Processing, Data Visualization, Database Systems & Information Modeling, Software Engineering, and more!
 
 🌍  I'm based in Boston, Massachusetts
 ✉️  You can contact me at timothy.harrisonreyes@gmail.com
@@ -8,6 +8,13 @@ I have been a Special Education Teacher for the last 10 years, but I am in the p
 🤝  I'm open to collaborating on projects regarding data analysis, data visualizations, and education.
 
 ## Certificates and Degrees:
+
+### Degrees:
+- Masters of Science in Data Analytics - Southern New Hampshire University (2022)
+- Masters of Education in Secondary Education- University of Massachussets Boston (2015)
+- Bachelor of Arts in History & Education - Massachusetts College of Liberal Arts (2012)
+
+### Certifications:
 - Python for Data Science and Machine Learning Boot Camp (Udemy)
 - Google Data Analytics Professional Certificate (Google)
 - Google IT Support Professional Certificate (Google)
